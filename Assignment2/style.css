@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(14, 3, 3);
+    color: white;
+}
+h1{
+    text-align: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.a{
+    color: snow;
+    background-color:#2d3142;
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.aa{
+    color: snow;
+    background-color: goldenrod; 
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.aaa{
+    color: snow;
+    background-color: #ef8354;
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.aaaa{
+    color: snow;
+    background-color: #b23a48; 
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center; 
+}
+.detail{
+    margin: 0rem 6rem;
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+}
+span{
+    font-size: 2rem;
+    margin-right: 1rem;
+    background-color: rgb(65, 54, 107);
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 40%;
+    padding: 1rem;
+    text-align: center;
+    position: sticky;
+    top: 10px;
+
+}
+.icon{
+    margin-left: 5rem;
+    margin-top: 0rem;
+    display: inline-block;
+    font-size: 2rem;
+    color: rgb(167, 23, 23);
+    
+}
